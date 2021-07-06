@@ -1,11 +1,10 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  
+	"ChaveAcesso": 000, //disabled | numerico
+	"ProtocoloAutorizaçãoUso": 000, //disabled | numerico
+	"Danfe": "link" // Campo alfanumérico, não editável, exibe link da Danfe.
+	"DataAutorizaçãoNotaFiscal":  	//Campo data, não editável. DD/MM/AAAA.
+	"Código da compra/venda": "001" //Campo alfanumérico, não editável, exibe o código do pedido de compra ou venda que originou a nota fiscal.
+	"Cliente": "Nome do Cliente" //Campo texto, não editável. Exibe o nome completo do cliente, registrado no pedido de compra ou venda.
+	"NaturezaOperação": "Natureza da Operação" /Campo alfanumérico, não editável, exibe o valor de natureza da operação registrado na nota fiscal.
 }
