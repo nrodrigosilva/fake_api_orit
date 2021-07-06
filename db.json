@@ -1,10 +1,29 @@
 {
-  
-	"ChaveAcesso": 000, //disabled | numerico
-	"ProtocoloAutorizaçãoUso": 000, //disabled | numerico
-	"Danfe": "link" // Campo alfanumérico, não editável, exibe link da Danfe.
-	"DataAutorizaçãoNotaFiscal":  	//Campo data, não editável. DD/MM/AAAA.
-	"Código da compra/venda": "001" //Campo alfanumérico, não editável, exibe o código do pedido de compra ou venda que originou a nota fiscal.
-	"Cliente": "Nome do Cliente" //Campo texto, não editável. Exibe o nome completo do cliente, registrado no pedido de compra ou venda.
-	"NaturezaOperação": "Natureza da Operação" /Campo alfanumérico, não editável, exibe o valor de natureza da operação registrado na nota fiscal.
+	"ChaveAcesso": 1, 
+	"ProtocoloAutorizaçãoUso": 1, 
+	"Danfe": "link" ,
+	"DataAutorizaçãoNotaFiscal":  	"Tue Jul 06 2021 15:44:26 GMT-0300 (Horário Padrão de Brasília)",
+	"CódigoCompraVenda": 1,
+	"Cliente": "Nome do Cliente",
+	"NaturezaOperação": "Natureza da Operação" ,
+	"Finalidade": "Finalidade" ,
+	"Tipo": "Tipo",
+	"SerieNFe": 1,
+	"NumeroNFe": 1,
+	"TotaisNota_BC_ICMS": 1,
+	"TotaisNota_ICMS_ST": 1,
+	"TotaisNota_IPI": 1,
+	"TotaisNota_ValorDesconto": 1,
+	"TotaisNota_ValorFrete": 1,
+	"TotaisNota_ValorDespesas": 1,
+	"TotaisNota_ValorSeguro": 1,
+	"TotaisNota_ValorProdutos": 1,
+	"TotaisNota_ValorTotalNota": 1,
+	"Detalhe_DataEmissão": 1,
+	"Detalhe_DataPedido": 1,
+	"Detalhe_HoraPedido": 1,
+	"Detalhe_ObservaçõesNotaFiscal": 1,
+	"Detalhe_ObservaçõesInternas": 1,
+	"DataUltimaModificação": 1
+	
 }
