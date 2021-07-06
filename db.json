@@ -1,4 +1,4 @@
-[
+
 	{
 	"IdNotaFiscal": 1, 
 	"ChaveAcesso": 1, 
@@ -28,35 +28,4 @@
 	"Detalhe_ObservaçõesInternas": "Lorem Ipsum Dolor.....",
 	"DataUltimaModificação": "Tue Jul 06 2021 15:44:26 GMT-0300 (Horário Padrão de Brasília)",
 	
-},
-{
-	"IdNotaFiscal": 2, 
-	"ChaveAcesso": 1, 
-	"ProtocoloAutorizaçãoUso": 1, 
-	"Danfe": "link" ,
-	"DataAutorizaçãoNotaFiscal": "Tue Jul 06 2021 15:44:26 GMT-0300 (Horário Padrão de Brasília)",
-	"CódigoCompraVenda": "1a",
-	"Cliente": "Nome do Cliente",
-	"NaturezaOperação": "1a" ,
-	"Finalidade": "Finalidade" ,
-	"Tipo": "Tipo",
-	"SerieNFe": 1,
-	"NumeroNFe": 1,
-	"TotaisNota_BC_ICMS": 1.00,
-	"TotaisNota_ICMS_ST": 1.00,
-	"TotaisNota_IPI": 1.00,
-	"TotaisNota_ValorDesconto": 1.00,
-	"TotaisNota_ValorFrete": 1.00,
-	"TotaisNota_ValorDespesas": 1.00, 
-	"TotaisNota_ValorSeguro": 1.00,
-	"TotaisNota_ValorProdutos": 1.00,
-	"TotaisNota_ValorTotalNota": 1.00,
-	"Detalhe_DataEmissão": "Tue Jul 06 2021 15:44:26 GMT-0300 (Horário Padrão de Brasília)",
-	"Detalhe_DataPedido": "Tue Jul 06 2021 15:44:26 GMT-0300 (Horário Padrão de Brasília)",
-	"Detalhe_HoraPedido": "15:44:26",
-	"Detalhe_ObservaçõesNotaFiscal": "Lorem Ipsum Dolor.....",
-	"Detalhe_ObservaçõesInternas": "Lorem Ipsum Dolor.....",
-	"DataUltimaModificação": "Tue Jul 06 2021 15:44:26 GMT-0300 (Horário Padrão de Brasília)",
-	
 }
-]
